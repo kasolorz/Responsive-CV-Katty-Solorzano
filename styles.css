@@ -22,7 +22,7 @@ body.dark a {
 /* Comienza el Hero*/
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url("https://kasolorz.github.io/images/purple-background-3d.jpg");
+    url("images/purple-background-3d.jpg");
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
